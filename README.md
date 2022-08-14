@@ -1,6 +1,6 @@
 ### Hi! :wave:
 
-My personal project focus is on [Annotated Container](), a dependency injection framework using PHP 8 Attributes! In addition to adding new features and fixing bugs, I'm also dog-fooding the library building some small apps with it.
+My personal project focus is on [Annotated Container](https://github.com/cspray/annotated-container), a dependency injection framework using PHP 8 Attributes! In addition to adding new features and fixing bugs, I'm also dog-fooding the library building some small apps with it.
 
 Professionally I've convinced the team at @Roave to pay me for making their PHP code marginally less worse. Yea, I don't get it either.
 
